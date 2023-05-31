@@ -1,0 +1,9 @@
+{
+	"name": "trialpipelineexecution",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da32d183-facb-4cbc-97db-c459502f8c3d",
+		"tenantId": "bc886dde-28c6-45bc-bfef-20f449f8f44b"
+	}
+}
